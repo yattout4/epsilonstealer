@@ -1,9 +1,9 @@
-<h1 align="center"> Epsilon Stealer LEAK </h1>
+<h1 align="center"> Epsilon Stealer LEAK</h1>
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/ViganW8.jpg"width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://discord.gg/toolfr" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="https://discord.gg/qNfuePppRF" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
@@ -90,7 +90,7 @@
 #
 |*Information:* | *Response:* |
 |--------------|------------ |
-| *Made By :*   |        IW deleted     |
-| *User :*      |iwdeleted |
-| *Server :*   | https://discord.gg/toolfr |
+| *Made By :*   |        iAss     |
+| *User :*      |alex.wishbone |
+| *Server :*   | https://discord.gg/qNfuePppRF |
 
